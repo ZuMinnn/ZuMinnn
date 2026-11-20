@@ -1,21 +1,77 @@
-# 💫 About Me:
-🌱 Hi, I’m Zumin<br>🎓 Multimedia Technology - PTIT<br>❤️ Interesting on Web, Game, Ai
+<!-- Banner Bocchi the Rock! (tỉ lệ khuyên dùng: 1200x320px, bo góc nhẹ) -->
+<p align="center">
+  <img src="./assets/banner.png" alt="Zumin Banner" width="100%" />
+</p>
 
+<h2 align="center">
+  hi, i'm <a href="https://github.com/ZuMinnn">Zumin</a> (Trần Minh Vũ) ✦
+</h2>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NotMinhZu#0778) 
+<p align="center">
+  <sub>Multimedia Technology @ PTIT · Hanoi, Vietnam</sub>
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZuMinnn&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ZuMinnn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuMinnn&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ZuMinnn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-NotMinhZu%230778-1e1e2e?style=for-the-badge&logo=discord&logoColor=b4befe&labelColor=181825" alt="Discord" />
+  <a href="https://github.com/ZuMinnn">
+    <img src="https://img.shields.io/badge/GitHub-ZuMinnn-1e1e2e?style=for-the-badge&logo=github&logoColor=cba6f7&labelColor=181825" alt="GitHub" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ZuMinnn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ✧ About
+
+- **Focus:** Full-stack Web Development, Cross-platform Mobile, Game Backend & Architecture, and AI / Computer Vision.
+- **Research & Academics:** Multimedia Data Mining, IoT Systems, and VR Application Development.
+- **Education:** Posts and Telecommunications Institute of Technology (**PTIT**) — *Multimedia Technology*.
+
+---
+
+### ✧ Core Stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=89b4fa" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-1e1e2e?style=for-the-badge&logo=go&logoColor=89dceb" alt="Go" />
+  <img src="https://img.shields.io/badge/Flutter-1e1e2e?style=for-the-badge&logo=flutter&logoColor=74c7ec" alt="Flutter" />
+</p>
+
+<details>
+  <summary><strong>▸ Extended Stack & Tools</strong></summary>
+  <br />
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` · `C++` · `Rust` · `JavaScript` · `HTML5` |
+| **Frontend & Mobile** | `React` · `Next.js 14` · `Vue.js` · `Vite` · `Flutter` |
+| **Backend & Messaging** | `Node.js` · `Express` · `NestJS` · `Go` · `BullMQ` · `WebSocket` · `MQTT` |
+| **AI & Computer Vision** | `PyTorch` · `OpenCV` · `scikit-learn` · `MediaPipe` · `MTCNN` · `Gemini` · `FAL.ai` · `Qwen` · `Volcengine` |
+| **Database & Storage** | `PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `MinIO` · `Firebase` |
+| **Cloud & DevOps** | `Docker` · `Docker Compose` · `GCP` · `Railway` · `Heroku` |
+
+</details>
+
+---
+
+### ✧ GitHub Stats
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=ZuMinnn&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&rank_icon=github"
+    alt="ZuMinnn GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuMinnn&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4"
+    alt="ZuMinnn Top Languages"
+  />
+</p>
+
+---
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:cba6f7,50:89b4fa,100:f5c2e7&height=2&section=footer" width="100%" />
+</p>
