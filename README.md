@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">
-  hi, i'm <a href="https://github.com/ZuMinnn">Zumin</a> (Trần Minh Vũ) ✦
+  hi, i'm <a href="https://github.com/ZuMinnn">Zumin</a> (Trần Minh Vũ) 
 </h2>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ---
 
-### ✧ About
+###  About
 
 - **Focus:** Full-stack Web Development, Cross-platform Mobile, Game Backend & Architecture, and AI / Computer Vision.
 - **Research & Academics:** Multimedia Data Mining, IoT Systems, and VR Application Development.
@@ -28,7 +28,7 @@
 
 ---
 
-### ✧ Core Stack
+###  Core Stack
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=89b4fa" alt="TypeScript" />
@@ -53,7 +53,7 @@
 
 ---
 
-### ✧ GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img
