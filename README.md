@@ -28,30 +28,56 @@
 
 ---
 
-###  Core Stack
+<h3 align="center">✧ Core Stack</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=89b4fa" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-1e1e2e?style=for-the-badge&logo=go&logoColor=89dceb" alt="Go" />
-  <img src="https://img.shields.io/badge/Flutter-1e1e2e?style=for-the-badge&logo=flutter&logoColor=74c7ec" alt="Flutter" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,go,flutter&theme=dark" height="56" alt="Core Stack: TypeScript, Go, Flutter" />
 </p>
 
-<details>
-  <summary><strong>▸ Extended Stack & Tools</strong></summary>
-  <br />
+<p align="center">
+  <sub><code>TypeScript</code> · <code>Go</code> · <code>Flutter</code></sub>
+</p>
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | `Python` · `C++` · `Rust` · `JavaScript` · `HTML5` |
-| **Frontend & Mobile** | `React` · `Next.js 14` · `Vue.js` · `Vite` · `Flutter` |
-| **Backend & Messaging** | `Node.js` · `Express` · `NestJS` · `Go` · `BullMQ` · `WebSocket` · `MQTT` |
-| **AI & Computer Vision** | `PyTorch` · `OpenCV` · `scikit-learn` · `MediaPipe` · `MTCNN` · `Gemini` · `FAL.ai` · `Qwen` · `Volcengine` |
-| **Database & Storage** | `PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `MinIO` · `Firebase` |
-| **Cloud & DevOps** | `Docker` · `Docker Compose` · `GCP` · `Railway` · `Heroku` |
+<br />
 
-</details>
+<h3 align="center">✧ Tech Ecosystem</h3>
 
----
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <b>Languages</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=py,cpp,rust,js,html&theme=dark" height="44" alt="Languages" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <b>Frontend &amp; Mobile</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,flutter&theme=dark" height="44" alt="Frontend and Mobile" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <b>Backend &amp; Messaging</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=go,nodejs,express,nestjs&theme=dark" height="44" alt="Backend" /><br /><br />
+      <sub><code>BullMQ</code> · <code>WebSocket</code> · <code>MQTT</code></sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <b>AI &amp; Computer Vision</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn&theme=dark" height="44" alt="AI and Computer Vision" /><br /><br />
+      <sub><code>MediaPipe</code> · <code>MTCNN</code> · <code>Gemini</code> · <code>FAL.ai</code> · <code>Qwen</code> · <code>Volcengine</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <b>Database &amp; Storage</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase&theme=dark" height="44" alt="Database and Storage" /><br /><br />
+      <sub><code>MinIO</code></sub>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <b>Cloud &amp; DevOps</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=docker,gcp,heroku&theme=dark" height="44" alt="Cloud and DevOps" /><br /><br />
+      <sub><code>Docker Compose</code> · <code>Railway</code></sub>
+    </td>
+  </tr>
+</table>
 
 ###  GitHub Stats
 
