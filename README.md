@@ -28,7 +28,7 @@
 
 ---
 
-<h3 align="center">✧ Core Stack</h3>
+<h3 align="center"> Core Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,go,flutter&theme=dark" height="56" alt="Core Stack: TypeScript, Go, Flutter" />
